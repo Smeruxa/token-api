@@ -27,7 +27,7 @@
 ```
 
 ### Получение данных токена 
-**`POST`** `https://smeruxa.ru/api/token/create`
+**`POST`** `https://smeruxa.ru/api/token/get`
 
 #### Отправляемые данные (JSON):
 ```json
