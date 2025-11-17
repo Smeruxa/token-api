@@ -26,6 +26,8 @@
 }
 ```
 
+---
+
 ### Получение данных токена 
 **`POST`** `https://smeruxa.ru/api/token/get`
 
